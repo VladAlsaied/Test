@@ -1,8 +1,9 @@
 123
-test line
+test line update
 test line from github
 commit test
 789.
 Add Line
 Try to add alone new line
 new branch line
+new line for conflict branch info
