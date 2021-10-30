@@ -7,3 +7,4 @@ Add Line
 Try to add alone new line
 new branch line
 new line for conflict branch info
+new line for gui
